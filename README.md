@@ -29,3 +29,5 @@ PHP, MySQL, HTML, CSS, JavaScript, and XAMPP.
 
 ## Project Status
 An academic prototype for local demonstration. Recommendation features use educational rule-based scoring. Update expired sample job deadlines to display opportunities in searches.
+
+Further testing and development can help address the current limitations.
