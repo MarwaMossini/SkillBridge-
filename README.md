@@ -1,6 +1,14 @@
 # SkillBridge
 
-A job and career guidance website developed by a team of three students for Software Engineering, CSCI4004, in Summer 2026.
+An academic recruitment and career guidance website for students, employers, and career counselors.
+
+## Academic Context
+- Course: Software Engineering (CSCI4004), Asian University for Women (AUW).
+- Semester: Summer 2026.
+- Team: Three students.
+
+## My Contribution
+I researched related recruitment websites and compared their features with our project. I also created data flow diagrams (DFDs) and wrote use case descriptions to explain the system's workflows and user interactions.
 
 ## Features
 - Browse and filter jobs and internships.
